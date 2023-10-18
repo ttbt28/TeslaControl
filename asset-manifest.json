@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/TeslaControl/static/js/main.b3dfee18.js",
+    "index.html": "/TeslaControl/index.html",
+    "main.b3dfee18.js.map": "/TeslaControl/static/js/main.b3dfee18.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b3dfee18.js"
+  ]
+}
